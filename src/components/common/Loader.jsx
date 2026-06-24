@@ -40,7 +40,7 @@ const Loader = ({
       </div>
     );
   }
-
+// this is my o,ment 
   return (
     <div className="flex items-center justify-center py-10">
       {content}
